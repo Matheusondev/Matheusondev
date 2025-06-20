@@ -1,8 +1,8 @@
 # Matheus Michelin
 <a href="https://instagram.com/michelin_sk8" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusondev&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusondev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusondev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusondev&show_icons=true&theme=dark)
 # Hello, Devs!
 What's up Devs, I'm 14 years old and i live in São Paulo, Brazil, and i'm beginner at programming.
 
