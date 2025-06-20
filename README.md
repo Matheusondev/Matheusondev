@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusondev&show_icons=true&theme=radical)
 # Hello, Devs!
 What's up Devs, I'm 14 years old and i live in São Paulo, Brazil, and i'm beginner at programming.
-![Snake animation](https://github.com/Matheusondev/Matheusondev/blob/output/github-contribution-grid-snake.svg)
+
 
 
 # Tools and Technologies
